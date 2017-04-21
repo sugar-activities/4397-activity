@@ -1,0 +1,8 @@
+[Activity]
+name = Castle
+activity_version = 8 
+host_version = 1
+bundle_id = mulawa.Castle
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
